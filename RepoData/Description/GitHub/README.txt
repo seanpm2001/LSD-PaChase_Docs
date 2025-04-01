@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌈️◽️◽️👻️📖️ The official documentation source repository for LSD PaChase, a mod for KDEs Kapman, which is based on a dream I had. It adds a timer, several effects, and makes the pellets run away from you.
